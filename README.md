@@ -1,6 +1,6 @@
 # Morse Code Ruby
 
-> Morse code decipher. 
+> Morse code decipher using Ruby. For a different result just put a different input. 
 
 ## Authors
 
