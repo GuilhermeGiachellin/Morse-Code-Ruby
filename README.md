@@ -23,7 +23,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/GuilhermeGiachellin/vet-clinic-DB/issues).
+Feel free to check the [issues page](https://github.com/GuilhermeGiachellin/Morse-Code-Ruby/issues).
 
 ## Show your support
 
